@@ -12,4 +12,5 @@ Spring Boot 实现基于JWT的认证方式
 3. 运行/resources/sql/base_user.sql中的sql语句，创建用户表
 4. 运行test/UserDTOMapperTest.java/addUser，添加测试用户
 5. 用户postMane调用/login接口，查看效果
-https://github.com/lileihappy123/springboot-jwt/blob/master/image.png
+
+![image](https://github.com/lileihappy123/springboot-jwt/blob/master/image.png)
